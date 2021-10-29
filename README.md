@@ -1,6 +1,6 @@
 
 <p align="center">  
-  <a href="https://twitter.com/nanokasogongon">
+  <a href="https://twitter.com/nanokasogongon" targe="_blank">
     <img src="https://img.shields.io/twitter/url?label=%40NanokasoGongon&logoColor=%23c80cf7&url=https%3A%2F%2Ftwitter.com%2Fnanokasogongon"/>
   </a>
 </p>
