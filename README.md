@@ -1,12 +1,12 @@
 
 <p align="center">  
   <a href="https://twitter.com/nanokasogongon">
-    <img src="https://img.shields.io/twitter/url?label=%40NanokasoGongon&logoColor=%23c80cf7&url=https%3A%2F%2Ftwitter.com%2Fnanokasogongon"/>
+    <img src="https://img.shields.io/twitter/url?label=%40NanokasoGongon&logoColor=%23c80cf7"/>
   </a>
 </p>
 
 <p align="center">  
-  <h3>Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Meu nome é Nataly!</h3>
+  <h3 align="center">Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Meu nome é Nataly!</h3>
 </p>
 
 <br />
