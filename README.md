@@ -1,4 +1,14 @@
-### Hi there 👋
+### Oi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Meu nome é Nataly!
+
+![Twitter Follow](https://img.shields.io/twitter/url?label=%40NanokasoGongon&logoColor=%23c80cf7&url=https%3A%2F%2Ftwitter.com%2Fnanokasogongon)
+
+---
+
+## &#x1f4c8; Meu GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<nanokaso>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<nanokaso>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nanokaso/Nanokaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
