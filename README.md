@@ -6,8 +6,8 @@
 
 ## &#x1f4c8; Meu GitHub
 
-![nanokaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanokaso&show_icons=true&theme=buefy&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanokaso&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![nanokaso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanokaso&show_icons=true&theme=buefy&hide_border=true&locale=pt-BR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanokaso&layout=compact&hide_border=true&locale=pt-BR)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
