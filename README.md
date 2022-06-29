@@ -13,7 +13,7 @@
 
 
 ### &#x1f4c8; Meu GitHub
-<div style=" display: flex; align-items: center; justify-content: space-evenly; padding:1rem; background:white ">
+<div style=" display: flex; align-items: center; justify-content: space-evenly; padding:1rem 0px; background:white ">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanokaso&show_icons=true&theme=buefy&hide_border=true&locale=pt-BR" alt="Nanokaso's github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanokaso&layout=compact&hide_border=true&locale=pt-BR&title_color=#8F72DB" />
