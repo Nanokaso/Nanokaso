@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://twitter.com/nanokasogongon" targe="_blank">
-    <img src="https://img.shields.io/twitter/url?label=%40NanokasoGongon&logoColor=%23c80cf7&url=https%3A%2F%2Ftwitter.com%2Fnanokasogongon"/>
+    <img style="width:50px;" src="https://img.shields.io/twitter/url?label=%40NanokasoGongon&logoColor=%23c80cf7&url=https%3A%2F%2Ftwitter.com%2Fnanokasogongon"/>
   </a>
 </p>
 
@@ -12,12 +12,10 @@
 <br /><br /><br />
 
 
-### &#x1f4c8; Meu GitHub
-<div style=" display: flex; align-items: center; justify-content: space-evenly; padding:1rem 0px; background:white ">
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanokaso&show_icons=true&theme=buefy&hide_border=true&locale=pt-BR" alt="Nanokaso's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanokaso&layout=compact&hide_border=true&locale=pt-BR&title_color=#8F72DB" />
-
+<h3>Meu GitHub</h3>
+<div style=" display: flex; align-items: center; justify-content: space-evenly; padding:1rem 0px; background:white ">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nanokaso&show_icons=true&theme=buefy&hide_border=true&locale=pt-BR" alt="Nanokaso's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanokaso&layout=compact&hide_border=true&locale=pt-BR&title_color=#8F72DB" />
 </div>
 
 <!-- 
