@@ -7,7 +7,7 @@
 <h1 align="center">✨ Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Eu sou a <strong>Nataly</strong> ✨</h1>
 
 <p align="center">
-  🔥 Desenvolvedora apaixonada por HEMA, tecnologia e comunidades inclusivas 🔥
+  🔥 Desenvolvedora apaixonada por HEMA, tecnologia, artesanato, costura e comunidades inclusivas 🔥
 </p>
 
 ---
@@ -17,7 +17,11 @@
   <li>💻 Desenvolvendo projetos em <strong>Angular</strong>, <strong>Flutter</strong> e <strong>Bootstrap</strong></li>
   <li>⚔️ Administradora da <strong>Compagnia di Marte</strong> e parte da <strong>Compagnia di Bellona</strong></li>
   <li>🌈 Focada em criar ambientes inclusivos e seguros para todes</li>
-  <li>🚀 Sempre em busca de aprender e aprimorar minhas habilidades</li>
+  <li>🪡 Apaixonada por <strong>artesanato</strong> e <strong>costura</strong></li>
+  <li>🎵 Amo diversos tipos de música e sempre criando novas playlists</li>
+  <li>🏡 Adoro reinventar e transformar minha casa com novas ideias</li>
+  <li>🐾 Mãe da gatinha <strong>Pyke</strong>, minha fiel companheira de código</li>
+  <li>🚀 Estudando programação há mais de 10 anos e sempre aprendendo mais</li>
 </ul>
 
 ---
@@ -40,7 +44,7 @@
 
 <h2>📫 Vamos nos conectar!</h2>
 <p>
-  💬 Me chama para conversar sobre tecnologia, qualquer assunto aleatório!
+  💬 Me chama para conversar sobre tecnologia, música, artesanato ou qualquer assunto aleatório!
   <br>
   🌐 <a href="https://twitter.com/nanokasogongon" target="_blank">Twitter</a> | 💼 <a href="https://github.com/Nanokaso" target="_blank">GitHub</a>
 </p>
@@ -56,6 +60,6 @@
 
 🔭 Atualmente trabalhando em: Projetos para a comunidade HEMA
 🌱 Aprendendo: Novas práticas em Flutter e Angular
-💬 Pergunte-me sobre: Desenvolvimento web, mobile e esgrima histórica
-⚡ Curiosidade: Eu consigo misturar código e espadas como ninguém ⚔️💻
+💬 Pergunte-me sobre: Desenvolvimento web, mobile, esgrima histórica, artesanato e costura
+⚡ Curiosidade: Eu consigo misturar código, espadas e linhas como ninguém ⚔️💻🪡
 -->
